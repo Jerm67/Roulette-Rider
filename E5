@@ -1,0 +1,13 @@
+E5
+
+var nb :REEL
+
+DEBUT
+	 ECRIRE "Entrez un nombre"
+	 LIRE nb
+	 Si n > 0 alors
+	  ECRIRE "ce nombre est positif"
+	 Sinon 
+	  ECRIRE "ce nombre est negatif"
+	 FINSI
+	 FIN 
