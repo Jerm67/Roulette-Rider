@@ -1,0 +1,14 @@
+Exercice 1 15/11/2019
+
+ALGORITHME : 1 15/11/2019
+
+VAR val, double : integer
+
+BEGIN 
+	 val <- 231
+	 double <- val * 2
+	 writeln (val)
+	 writeln (double)
+END
+
+Affiche 231 et 462
