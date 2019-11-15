@@ -1,3 +1,4 @@
 # Roulette-Rider team
-Algo programme bonjour
-08/11/2019
+Premier programme "Algo"
+Exercice algorithme "LIRE, ECRIRE, CONDITION"
+15/11/2019
