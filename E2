@@ -1,0 +1,11 @@
+E2
+
+VAR nb, carré : integer
+
+BEGIN 
+	 writeln ('entrez un nombre');
+	 readln (nb);
+	 carr <- nb *nb;
+	 writeln $('Son carré est :');
+	 readln (carré)
+END
