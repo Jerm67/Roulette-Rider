@@ -1,10 +1,11 @@
 E3
 
-var jérémy : char
+var jérémy : string
 
 BEGIN
-	 writeln('Quel est votre prénom')
-	 readln jérémy
-	 writeln ('Bonjour, Jérémy ! ')
+	 writeln('Quel est votre prenom');
+	 readln (jérémy);
+	 writeln ('Bonjour', prenom);
 FIN
+
 
