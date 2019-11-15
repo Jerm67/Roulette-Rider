@@ -9,6 +9,6 @@ DEBUT
 	 LIRE nb
 	 ECRIRE "saisir le taux de tva (%)"
 	 LIRE tva 
-	 ttc <- nb * (ht+(ht * tva / 100))
+	 ttc <- nb * (ht+(ht * tva / 100)))
 	 ECRIRE "le prix TTC pour", nb ,"articles avec un prix", ht, "euro et un taux de tva à", tva,"% est", TTC
 FIN
