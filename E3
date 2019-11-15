@@ -1,0 +1,10 @@
+E3
+
+var jérémy : char
+
+BEGIN
+	 writeln('Quel est votre prénom')
+	 readln jérémy
+	 writeln ('Bonjour, Jérémy ! ')
+FIN
+
